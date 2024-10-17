@@ -22,5 +22,4 @@ class contactsManager:
     
     def list_contacts(self):
         for contact in self.contacts:
-            print(f"Name: {contact['name']}, Email: {contact['email']}, Preferred Time: 
-                  {contact['preffered_time']}")
+            print(f"Name: {contact['name']}, Email: {contact['email']}, Preferred Time: {contact['preferred_time']}")
