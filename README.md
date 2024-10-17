@@ -52,3 +52,5 @@ The package includes error handling for many scenarios, for example:
     Trying to send message to a list without any contacts
     Invalid contact information
 
+## My experience
+My exprience with this project is that is was alright. Making the different modules interacting with each other was fairly easy, but making the script send a message at different times did create problems. Also don't know if I made the project run daily, or if it stops after running through all the contacts. I also didn't use the contacts.py module because it wasnt needed and got all I needed from the contact_manager module. 
